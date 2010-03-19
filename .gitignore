@@ -1,0 +1,5 @@
+# ignore all files
+*
+# but .emacs, .gitignore
+!.emacs
+!.gitignore
